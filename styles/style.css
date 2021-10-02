@@ -106,7 +106,7 @@
   width: 175px;
   bottom: 0px;
   margin: 0;
-  color:#2f80ed
+  color:#2f80ed;
 }
 .two-columns__main-text {
   display: flex;
@@ -142,7 +142,6 @@
   width: 60%;
   justify-content: center;
   margin: 0 auto 20px auto;
-  font-size: 100%;
   line-height: 1.15;
   font-size: 60px;
   font-weight: bold;
@@ -152,7 +151,6 @@
   width: 60%;
   justify-content: center;
   margin: 0 auto;
-  font-size: 100%;
   line-height: 34px;
   font-size: 24px;
   font-weight: normal;
@@ -173,13 +171,11 @@
 }
 .table__heading {
   margin: 0;
-  font-size: 100%;
   line-height: 1.15;
   font-size: 24px;
 }
 .table__text {
   margin:0;
-  font-size: 100%;
   line-height: 1.2;
   font-size: 18px;
   margin-top: 20px;
