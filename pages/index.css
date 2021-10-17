@@ -1,4 +1,5 @@
 
+@import url(../vendor/normalize.css);
 @import url(../blocs/header/header.css);
 @import url(../blocs/header/__link/header__link.css);
 @import url(../blocs/header/__main-illustration/header__main-illustration.css);
@@ -29,6 +30,7 @@
 @import url(../blocs/khan/__container/khan__container.css);
 @import url(../blocs/khan/__quote-author-subline/khan__quote-author-subline.css);
 @import url(../blocs/khan/__quote-author/khan__quote-author.css);
+@import url(../blocs/khan/__reset-style/khan__reset-style.css);
 @import url(../blocs/khan/__quote/khan__quote.css);
 @import url(../blocs/khan/__title/khan__title.css);
 @import url(../blocs/khan/__book-pic/khan__book-pic.css);
